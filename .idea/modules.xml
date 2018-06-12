@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:\Akshay\SoftwareLabProject\PojectAPP\Pockete-mitra.iml" filepath="F:\Akshay\SoftwareLabProject\PojectAPP\Pockete-mitra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PojectAPP.iml" filepath="$PROJECT_DIR$/PojectAPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
