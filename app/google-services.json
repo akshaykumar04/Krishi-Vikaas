@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "1001585190819",
+    "firebase_url": "https://pixelbot-apps.firebaseio.com",
+    "project_id": "pixelbot-apps",
+    "storage_bucket": "pixelbot-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001585190819:android:5e44532ae8af058c",
+        "android_client_info": {
+          "package_name": "com.akshay.crop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001585190819-6vhd6j62fol58stpnrd00tbjq71uhp72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akshay.crop_app",
+            "certificate_hash": "9c1768c6d2e8515f51edcb388e07f9ee273c1379"
+          }
+        },
+        {
+          "client_id": "1001585190819-7j5vtseuj5li1uvuu2092h4in7bv7lsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-J84ST3DoCIvJBx3Wz4P8VOG03GEBK3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001585190819-7j5vtseuj5li1uvuu2092h4in7bv7lsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001585190819:android:a616c9356b2d975f",
+        "android_client_info": {
+          "package_name": "com.akshay.gbu_gallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001585190819-7j5vtseuj5li1uvuu2092h4in7bv7lsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-J84ST3DoCIvJBx3Wz4P8VOG03GEBK3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001585190819:android:40763663680dfa52",
+        "android_client_info": {
+          "package_name": "com.akshay.gbuattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001585190819-7j5vtseuj5li1uvuu2092h4in7bv7lsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-J84ST3DoCIvJBx3Wz4P8VOG03GEBK3w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.akshay.crop_app.MainActivity">
+
+        <android.support.design.widget.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@drawable/header"
+                app:popupTheme="@style/AppTheme.PopupOverlay">
+
+
+            </android.support.v7.widget.Toolbar>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/root_bg">
+
+                <ScrollView
+                    android:id="@+id/scrollView"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true">
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:orientation="vertical">
+
+                        <RelativeLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="220dp"
+                                android:layout_alignParentLeft="true"
+                                android:layout_alignParentStart="true"
+                                android:layout_alignParentTop="true"
+                                android:background="@drawable/fram_copy"
+                                android:gravity="center"
+                                android:orientation="vertical"
+                                tools:context="geen.box.MainActivity">
+
+
+                                <ImageView
+                                    android:id="@+id/imageView"
+                                    android:layout_width="70dp"
+                                    android:layout_height="70dp"
+                                    android:layout_gravity="center"
+                                    android:src="@drawable/ic_launcher" />
+
+                                <TextView
+                                    android:id="@+id/textView"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:layout_marginTop="10dp"
+                                    android:text="Krishi Vikaas"
+                                    android:textColor="@color/textColorSecondary"
+                                    android:textSize="14dp"
+                                    android:textStyle="bold" />
+
+
+
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="10dp"
+                                android:layout_marginRight="10dp"
+                                android:layout_marginTop="190dp"
+                                android:orientation="vertical">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="110dp"
+                                    android:layout_marginBottom="10dp"
+                                    android:orientation="horizontal">
+
+                                    <android.support.v7.widget.CardView
+                                        android:layout_width="0dp"
+                                        android:layout_height="match_parent"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:orientation="vertical">
+
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:background="#EEEEEE">
+
+                                            <ImageView
+                                                android:id="@+id/profile"
+                                                android:layout_width="45dp"
+                                                android:layout_height="45dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/crop_icon" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/profile"
+                                                android:layout_centerHorizontal="true"
+                                                android:textColor="@color/textColorPrimary"
+                                                android:layout_marginBottom="10dp"
+                                                android:layout_marginTop="8dp"
+                                                android:text="Farming Techniques"
+                                                android:textSize="12sp" />
+
+                                            <Button
+                                                android:id="@+id/button1"
+                                                android:layout_width="match_parent"
+                                                android:layout_height="match_parent"
+                                                android:background="@android:color/transparent" />
+
+                                        </RelativeLayout>
+                                    </android.support.v7.widget.CardView>
+
+                                    <android.support.v7.widget.CardView
+                                        android:layout_width="0dp"
+                                        android:layout_height="match_parent"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:orientation="vertical">
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:background="#EEEEEE">
+
+                                            <ImageView
+                                                android:id="@+id/education"
+                                                android:layout_width="45dp"
+                                                android:layout_height="45dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/icon_seed" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/education"
+                                                android:layout_centerHorizontal="true"
+                                                android:textColor="@color/textColorPrimary"
+                                                android:layout_marginBottom="10dp"
+                                                android:layout_marginTop="8dp"
+                                                android:text="Seeds Selection"
+                                                android:textSize="12sp" />
+
+                                            <Button
+                                                android:id="@+id/button2"
+                                                android:layout_width="match_parent"
+                                                android:layout_height="match_parent"
+                                                android:layout_alignParentLeft="true"
+                                                android:layout_alignParentStart="true"
+                                                android:layout_alignParentTop="true"
+                                                android:background="@color/cardview_shadow_end_color" />
+
+                                        </RelativeLayout>
+
+                                    </android.support.v7.widget.CardView>
+
+
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="110dp"
+                                    android:layout_marginBottom="10dp"
+                                    android:orientation="horizontal">
+
+                                    <android.support.v7.widget.CardView
+                                        android:layout_width="0dp"
+                                        android:layout_height="match_parent"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:orientation="vertical">
+
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:background="#EEEEEE">
+
+                                            <ImageView
+                                                android:id="@+id/health"
+                                                android:layout_width="45dp"
+                                                android:layout_height="45dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/scheme_icon" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/health"
+                                                android:layout_centerHorizontal="true"
+                                                android:textColor="@color/textColorPrimary"
+                                                android:layout_marginBottom="10dp"
+                                                android:layout_marginTop="8dp"
+                                                android:text="Krishi Yojnas"
+                                                android:textSize="12sp" />
+
+                                            <Button
+                                                android:id="@+id/button3"
+                                                android:layout_width="match_parent"
+                                                android:layout_height="match_parent"
+                                                android:layout_alignParentLeft="true"
+                                                android:layout_alignParentStart="true"
+                                                android:layout_alignParentTop="true"
+                                                android:background="@android:color/transparent" />
+
+                                        </RelativeLayout>
+
+                                    </android.support.v7.widget.CardView>
+
+
+                                    <android.support.v7.widget.CardView
+                                        android:layout_width="0dp"
+                                        android:layout_height="match_parent"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:orientation="vertical">
+
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:background="#EEEEEE">
+
+                                            <ImageView
+                                                android:id="@+id/goal"
+                                                android:layout_width="45dp"
+                                                android:layout_height="45dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/market_rate_icon" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/goal"
+                                                android:textColor="@color/textColorPrimary"
+                                                android:layout_centerHorizontal="true"
+                                                android:layout_marginBottom="10dp"
+                                                android:layout_marginTop="8dp"
+                                                android:text="Live Mandi Rates"
+                                                android:textSize="12sp" />
+
+                                            <Button
+                                                android:id="@+id/button4"
+                                                android:layout_width="match_parent"
+                                                android:layout_height="match_parent"
+                                                android:background="@android:color/transparent"
+                                                android:layout_alignParentTop="true"
+                                                android:layout_alignParentStart="true" />
+
+                                        </RelativeLayout>
+
+                                    </android.support.v7.widget.CardView>
+
+
+                                </LinearLayout>
+
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="110dp"
+                                    android:layout_marginBottom="10dp"
+                                    android:orientation="horizontal">
+
+                                    <android.support.v7.widget.CardView
+                                        android:layout_width="0dp"
+                                        android:layout_height="match_parent"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:orientation="vertical">
+
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:background="#EEEEEE">
+
+                                            <ImageView
+                                                android:id="@+id/finance"
+                                                android:layout_width="45dp"
+                                                android:layout_height="45dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/about_us" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/finance"
+                                                android:textColor="@color/textColorPrimary"
+                                                android:layout_centerHorizontal="true"
+                                                android:layout_marginBottom="10dp"
+                                                android:layout_marginTop="8dp"
+                                                android:text="About US"
+                                                android:textSize="12sp" />
+
+                                            <Button
+                                                android:id="@+id/button5"
+                                                android:layout_width="match_parent"
+                                                android:layout_height="match_parent"
+                                                android:background="@android:color/transparent" />
+
+                                        </RelativeLayout>
+
+                                    </android.support.v7.widget.CardView>
+
+
+                                    <android.support.v7.widget.CardView
+                                        android:layout_width="0dp"
+                                        android:layout_height="match_parent"
+                                        android:layout_marginLeft="5dp"
+                                        android:layout_weight="1"
+                                        android:gravity="center"
+                                        android:orientation="vertical">
+
+
+                                        <RelativeLayout
+                                            android:layout_width="match_parent"
+                                            android:layout_height="match_parent"
+                                            android:background="#EEEEEE">
+
+                                            <ImageView
+                                                android:id="@+id/comfort"
+                                                android:layout_width="45dp"
+                                                android:layout_height="45dp"
+                                                android:layout_centerInParent="true"
+                                                android:src="@drawable/help_center_icon" />
+
+                                            <TextView
+                                                android:layout_width="wrap_content"
+                                                android:layout_height="wrap_content"
+                                                android:layout_below="@+id/comfort"
+                                                android:layout_centerHorizontal="true"
+                                                android:layout_marginBottom="10dp"
+                                                android:layout_marginTop="8dp"
+                                                android:text="Help Desk"
+                                                android:textColor="@color/textColorPrimary"
+                                                android:textSize="12sp" />
+
+                                            <Button
+                                                android:id="@+id/button6"
+                                                android:layout_width="match_parent"
+                                                android:layout_height="match_parent"
+                                                android:background="@android:color/transparent" />
+
+                                        </RelativeLayout>
+
+                                    </android.support.v7.widget.CardView>
+
+
+                                </LinearLayout>
+
+                            </LinearLayout>
+
+                        </RelativeLayout>
+
+                    </LinearLayout>
+
+                </ScrollView>
+            </RelativeLayout>
+
+        </android.support.design.widget.AppBarLayout>
+
+
+    </android.support.design.widget.CoordinatorLayout>

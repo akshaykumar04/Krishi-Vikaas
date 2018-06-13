@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="windowBackground">#fff</color>
+    <color name="navigationBarColor">#bc5389</color>
+    <color name="statusBarColor">#bc5389</color>
+    <color name="colorPrimary">#d05990</color>
+<color name="colorPrimaryDark">#ba5388</color>
+<color name="colorAccent">#FFCD00</color>
+<color name="offwhile">#F1E9E3</color>
+    <color name="notification_color">#0288d1</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorSecondary">#2d2d2d</color>
+    <color name="navfun">#f74c97</color>
+
+</resources>

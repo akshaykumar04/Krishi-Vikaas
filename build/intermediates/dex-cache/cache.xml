@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\b38e02ec8b559ac73303dacd2f67ccefdcd25276\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_82bc3a68fe4ab77d454dd58bf76025760a152d8b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1be013e2702e5ad592c37646b17f4f42ffc53747\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="62ec6918a6b79214c2cba7ca48d1c41cf31a4da4">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2c48065742e9ace1afd438c864700f8770cd1a11\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\7e296dfee95d8b7cfb29d84bd134af16492d34cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_5b62be311f304b53c3d3381c5149e16e3dd9c67b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\73a4a213597c0310759076a46e781a5f7b112765\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_1d3bdb24f1b8d3e4c0c6f05caff49e25545c204c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\46c8be3502429339e2133e8aae65c7d3f03515c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_1163766d1795dc69402baabc34db441a7180741b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\7840453a6d702fbb0e3d1548357117fc9c725954\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_dae3579d330a1a006e995091cdcdbf230d1b3f7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\59c3ba5aec1a3db4626feb155c16be94a56c8880\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_a10fddcfe7af9f2c56699d548bdcae59e3c6f67b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\c841940ef8e135b85c3031e9cbb1d3d7b793868b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_64074506d80d89c133dfc268c88608af084397c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\777aaedf5d292f2a3984a2acd0cdb82ba794df1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_87d201bfcce6a9bd24c72be8e85002f341bfe69a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\721d85581059dd8f4530a60d463daaac21d9e76c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_a6487613a1854eb5a72f366a4f784a3e1ff88fcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\0fb19f0e37754875f377ddb07dd5cccfa7703a93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_ce06bb71aead013957a66835d1f7ac8bd161e2b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\7d57100da065692b0c8c89216bbd3db63d20c881\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_d4fc43343caa0e3944ccc0022575ed1bcbe43925.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Users\Akshay\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_9f3347e52c6316a697f9626ce6adb259a3ac912d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\common-1.0.0_24d458991ec36706387ba00b21d0b07995e7394b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Akshay\SoftwareLabProject\PojectAPP\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_3779fd1549c71b420e6d99cfc9883f3167aebf0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\a46b564a415952ff0541e221882400fd2670e11c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_21ae004f22d94915f19ff56ad12f4c932c279fdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\7d4100fa6ef3a70b3df3cb7b702d7cadf3ce31bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_63d7ae22106ef531328879fc49f6a3e73c974595.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Akshay\SoftwareLabProject\PojectAPP\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\YouTubeAndroidPlayerApi_3779fd1549c71b420e6d99cfc9883f3167aebf0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\7b7e7fa4352253466039f203469f145e003f5eb1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_727cf78833a0b4e0c37ca158f247f66a34422b0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\support-annotations-26.1.0_b12045a623f14d6f9bd873486e8dcd9bafa6ebda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\1a397c14266a8685b5aed49bee01bdbef6adaf53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_8d990e2211a6f889422fdb45b26120d74e3b4b92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\46a99bf675215c9180acb5933fa55388c97a476b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_fec6cc3f92bae992babd7501ab4f8e115e10564c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\8c1583e2dec159bc137a0932752392d344d5243b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_be6d9887009560015f3c8a721a82afaa3957a030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\a5ee2975bf92fa5c4f36ea042b459bfec21ef193\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_d54766bbb04cea5f907f9c45646962bbc57e5323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\a0797778e7e55665b1979202cea05a82609e1705\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_dd7f7c45d87b197ebcb5ded28321df4004a683f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\common-1.0.0_f55720a8834a66fc8bff1e2f7c399e1015f6bdfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\1608efc126fe35572bcde69658a0941293fb53fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_cd4096eabc3e18caeda643a214964af463e98056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\61714fb126268c9d10b1a9f48ee0cf07608780a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_a3f21b265ad7eb70b9e39fa445badabbbc63b63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\5cd4813451bf1fa9cdb4488f32f912c04064df14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69222656aff9fc06ba45b16a6cf65684ce39e121">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_a3dbdc015da0f43ee521950efa0bd2e7faceca82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\d204dbe2061c30b1c502b21070365611309f35f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_3db72f715baf5b09047f6a3e36720b034c59893e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\e7af991dc3700b54f3a4833570c9318fe9f62b29\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_347f36f214c31e71ae330aacf98d7d83557112d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\57462000cd00f0bced852f32838d60ffbc319ab3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_0ed9f8e327028d9c4655806c42d141a425771b50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\9f00fb91831e9029365427f80956511da09ab410\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\debug\classes_1c92392a1d68da95c94b23cc5f86fd426e0f6581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\5b20990b6226d017ff1f6341edc14c540a8f0452\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_45581e502b0fbee91bbbb6aa1a051780279d2558.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\90e58cceceea07a8e5821cdb43552a43147eb1e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ced2c9cad18369f076d58319666767cfc6e378e4">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_54a3b3056f9987481809365571b20eb9f565c504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akshay\.android\build-cache\3db99311bf1afac6a87bd2dc21aa95b4e3df3e95\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="90b4233b87eccc4d2cdacda55f47ce2f0580bc15">
+        <dex dex="F:\Akshay\SoftwareLabProject\PojectAPP\app\build\intermediates\pre-dexed\release\classes_6d0550cb61f9c4d13bda2b2e98a517b651c37d11.jar" />
+    </item>
+
+</items>

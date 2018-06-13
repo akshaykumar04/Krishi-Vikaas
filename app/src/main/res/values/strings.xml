@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Krishi Vikaas</string>
+    <string name="swachh_bharat_urban">Swachh Bharat Urban</string>
+    <string name="subsidy_status">Subsidy Status</string>
+    <string name="tag_send">send</string>
+    <string name="tag_verify">verify</string>
+    <string name="wheat">Wheat</string>
+    <string name="rice">Rice</string>
+    <string name="sugarcane">Sugarcane</string>
+    <string name="maize">Maize</string>
+    <string name="peas">Peas</string>
+    <string name="potato">Potato</string>
+    <string name="bajra">Bajra</string>
+</resources>

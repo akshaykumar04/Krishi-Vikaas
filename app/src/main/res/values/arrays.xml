@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item>Home</item>
+        <item>About us</item>
+        <item>Rate App</item>
+        <item>Share App</item>
+
+        <item />
+        <item>Log Out</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/home</item>
+        <item>@drawable/about_us</item>
+        <item>@drawable/rate_us</item>
+        <item>@drawable/share</item>
+        <item>0</item>
+        <item>@drawable/logout</item>
+    </array>
+
+</resources>

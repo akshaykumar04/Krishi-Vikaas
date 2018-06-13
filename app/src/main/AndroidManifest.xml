@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.akshay.crop_app">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".services.SplashService"
+            android:theme="@style/Theme.Design.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Register" />
+        <activity android:name=".OTP" />
+        <activity android:name=".NavigationItem.Nav1" />
+        <activity
+            android:name=".NavigationItem.Nav2"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name=".NavigationItem.Nav3" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity android:name=".NavigationItem.Nav4" />
+        <activity android:name=".MandiRates" />
+        <activity android:name=".MandiRateUploader" />
+        <activity android:name=".Help" />
+        <activity android:name=".crops.wheat_tech" />
+        <activity android:name=".crops.Rice_tech" />
+        <activity android:name=".crops.sugarcane_tech" />
+        <activity android:name=".seeds.wheat_seeds" />
+        <activity android:name=".seeds.maize_seeds" />
+        <activity android:name=".seeds.bajra_seeds"></activity>
+    </application>
+
+</manifest>
